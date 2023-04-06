@@ -1,4 +1,4 @@
-package com.girmiti.servletsproject;
+package com.work.servletsproject;
 
 import java.io.IOException;
 import java.io.PrintWriter;
